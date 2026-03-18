@@ -1,2 +1,2 @@
 # Generate a Taproot address.
-bitcoin-cli -regtest getnewaddress -addresstype bech32
+bitcoin-cli -regtest getnewaddress -addresstype bech32m
